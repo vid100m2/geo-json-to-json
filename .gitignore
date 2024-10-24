@@ -1,0 +1,7 @@
+dist/
+.env
+node_modules/
+.turbo/
+/storage/
+full-sifrant.json
+notes.txt

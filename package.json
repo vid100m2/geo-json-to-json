@@ -1,0 +1,15 @@
+{
+  "name": "geojson-to-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@googlemaps/polyline-codec": "^1.0.28",
+    "@turf/turf": "^7.1.0"
+  }
+}
