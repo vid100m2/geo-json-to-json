@@ -33,24 +33,34 @@ fs.readFile(inputFile, "utf8", (err, data) => {
     const output = simplifiedFeatures
       .map((feature) => {
         const name = feature.properties.name;
-        let encodedPath = "";
+        let encodedPaths = [];
+        let center = { lat: null, lng: null };
+
+        // Calculate the centroid of the feature
+        const centroid = turf.centroid(feature);
+        if (centroid && centroid.geometry && centroid.geometry.coordinates) {
+          center.lat = centroid.geometry.coordinates[1];
+          center.lng = centroid.geometry.coordinates[0];
+        }
 
         if (feature.geometry.type === "Polygon") {
           const coordinates = feature.geometry.coordinates[0].map((coord) => [
             coord[1],
             coord[0],
           ]);
-          encodedPath = encode(coordinates, 5); // Adjust the precision if needed
+          const encodedPath = encode(coordinates, 5); // Adjust the precision if needed
+          encodedPaths.push(encodedPath);
         } else if (feature.geometry.type === "MultiPolygon") {
-          const coordinates = feature.geometry.coordinates
-            .flat(2)
-            .map((coord) => [coord[1], coord[0]]);
-          encodedPath = encode(coordinates, 5); // Adjust the precision if needed
+          feature.geometry.coordinates.forEach((polygon) => {
+            const coordinates = polygon[0].map((coord) => [coord[1], coord[0]]);
+            const encodedPath = encode(coordinates, 5); // Adjust the precision if needed
+            encodedPaths.push(encodedPath);
+          });
         }
 
-        return { name, encodedPath };
+        return { name, encodedPaths, center };
       })
-      .filter((feature) => feature.encodedPath.length > 0);
+      .filter((feature) => feature.encodedPaths.length > 0);
 
     // Write output to a file
     fs.writeFile(
