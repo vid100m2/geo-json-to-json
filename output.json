@@ -7,7 +7,8 @@
     "center": {
       "lat": 45.50669829152542,
       "lng": 14.865494666101693
-    }
+    },
+    "id": "117"
   },
   {
     "name": "Loški Potok",
@@ -17,7 +18,8 @@
     "center": {
       "lat": 45.668007045918365,
       "lng": 14.628048362244892
-    }
+    },
+    "id": "118"
   },
   {
     "name": "Loška Dolina",
@@ -27,7 +29,8 @@
     "center": {
       "lat": 45.662958215053756,
       "lng": 14.466188713978493
-    }
+    },
+    "id": "176"
   },
   {
     "name": "Ilirska Bistrica",
@@ -37,47 +40,52 @@
     "center": {
       "lat": 45.5735161522472,
       "lng": 14.28648244494381
-    }
+    },
+    "id": "175"
   },
   {
-    "name": "Hrpelje-Kozina",
+    "name": "Hrpelje - Kozina",
     "encodedPaths": [
       "ixluGkfxsAph@foAxM~{@`h@bAxHu{@`mAsn@tMnP|s@sb@|p@gPtg@gv@cHqi@xE}VlaB{lAef@kpFvw@o_@vuBksBtd@yaA`@_xAxt@q`BtY_U`q@yiA`Asl@fvAqrCtO}qBiD{pAfImuAeQwr@o[wDyRdNnJ_g@ugB|s@gl@uHfMjd@v\\`TqGt[kt@rd@_HdfA~IlPak@mDmZss@y[_PiJ`GkYcOk_@hSmRqGcf@q~@qe@tA_c@eIe]s]iPjhApb@fl@sKhCkJn_@gZqIa^dQee@cLsHoLeChZi]qYdEeWod@gm@e_@mQsRa_@gK`RsJt{@kMl[oSxFlOz]zGd{@tSxKlWgBfTbk@vEvd@}Gvw@cWnCaRgIeu@s_ALlbAdPhl@r@tz@kLpcArPph@qAzOwPpfAik@xf@uG|s@kKzFkOqC}Gbb@q`@dj@wJh_AdKh~CsSqEwWhEjM~v@}JpN|Jz_@iQ~dAjJneA}Htp@|CdGjDk[lw@_`BnMfAtpA~dD"
     ],
     "center": {
       "lat": 45.57711906923078,
       "lng": 14.031851395192309
-    }
+    },
+    "id": "192"
   },
   {
-    "name": "Koper / Capodistria",
+    "name": "Koper",
     "encodedPaths": [
       "mfgtGmiwsA}WEcq@ub@sA}^{TtAaWor@yV}XwIfF_Nwc@lGox@kA}KkGj@{@wrBmM{M~Dy_Arp@auAkRkOm`@kgAyMcBqBqIkOlJoSmHeVbIkUefA}~@v_AEce@uv@vaA_Y|z@eC`g@e|@jTcf@wg@sPqc@t@iVd_@ex@zHixAsm@`Zm[wZCv`@q|@f_B{`BtvAws@f\\df@jpFmaBzlAyE|VbHpi@cR~]qTfW}p@fPya@zYcQvGuMoPamArn@yHt{@ah@cA{Iqn@~Ihq@tm@nCt_@fOnY|iAhRbPlYgC`OxkAnGxsDcKxnCgFhe@_vAxsErI~fAbVXm@dz@~IuEpDxQbW}DzEqYoTo^dGgn@zHN}EgO|JvBlL{PxIvAnEuo@lNIkDib@lLoFtIim@fc@sNxNxHtM_Hfh@zmAqH`e@ZndCoqL~iUfe@nmC~`Mi}PxHor@|]lVdScNlIjM|B_Mr\\kLrFrStn@qAjClJzXiV|TdDv`Ad`A~cAzc@gGqa@rUszBiBa[|Lcg@xZi@|jAvp@eDf^pj@`z@eJxMnLuD~c@`XbFiNhOqBlOnSmN|^|e@w`@tHpk@{GfDvIdR|EcBrAjNfLhEfKqKzFqPqCyMaHlEj@c`@w{@a~AmE{d@yImBSyZdFgAvAfK|Q{GwRsiB{SnCyDgLvE{\\kOky@vDo`AuIup@__@{l@lMqSaCsV~IgRwOoY`@gb@pVagA`c@iz@bKwBrRbR|b@StIlLfSseApj@{A{F{hAvQoxCdXwYjPvDyLcm@zHkKwE{BnBamAnI}CgIa@rDwx@"
     ],
     "center": {
       "lat": 45.504996129651154,
       "lng": 13.806274932558136
-    }
+    },
+    "id": "195"
   },
   {
-    "name": "Piran / Pirano",
+    "name": "Piran",
     "encodedPaths": [
       "}oqtGim|qAdmA_yBhk@ioFtNgi@`XyYzBak@x[aPbIoa@{a@ah@zGgDwFij@{g@n_@lN}^mOoSiOpBcFhN_d@aXoLtDdJyMqj@az@dDg^}jAwp@oLxE_LaEgNtg@hB`[_VxeCnGx^dKnHdLiLtw@hWxa@{B`R~{AeJbFpEzL_HlN}E~D}RcW}Zfg@qYpDpA|^gFnFoEiDiHzGyKmVnClZeLuEhGlScQhy@aNiY_[~Xye@uI_EuHukAveAsx@eGcOfe@qEcGiCnGuV_DuFng@o}KdvLhbGjd]vrIafZlmEoaK"
     ],
     "center": {
       "lat": 45.48778946031747,
       "lng": 13.649229577777776
-    }
+    },
+    "id": "196"
   },
   {
-    "name": "Izola / Isola",
+    "name": "Izola",
     "encodedPaths": [
       "mmutGsnerA`NhYbQiy@iGmSdLtEoCmZxKlVhH{GnEhDfFoFqA}^pYqD|Zgg@|RbWfMeP{CcQdJcFaR_|Aya@zBuw@iWeLhLcLoR}bAib@w`Ae`A}TeD{XhVkCmJun@pAsFsSs\\jL}B~LmIkMeSbN}]mVyHnr@_aMh}PbzAjrIn}KevLtFog@tV~ChCoGpEbGbOge@rx@dGtkAweA~DtHxe@tI~Z_Y"
     ],
     "center": {
       "lat": 45.51307801914894,
       "lng": 13.651529891489359
-    }
+    },
+    "id": "193"
   },
   {
     "name": "Kranjska Gora",
@@ -87,7 +95,8 @@
     "center": {
       "lat": 46.45775973274335,
       "lng": 13.832394413274333
-    }
+    },
+    "id": "163"
   },
   {
     "name": "Jesenice",
@@ -97,7 +106,8 @@
     "center": {
       "lat": 46.441823951470596,
       "lng": 14.072824038235293
-    }
+    },
+    "id": "160"
   },
   {
     "name": "Tržič",
@@ -107,7 +117,8 @@
     "center": {
       "lat": 46.37323471680672,
       "lng": 14.323900578151251
-    }
+    },
+    "id": "169"
   },
   {
     "name": "Žirovnica",
@@ -117,7 +128,8 @@
     "center": {
       "lat": 46.40440378142856,
       "lng": 14.169364164285716
-    }
+    },
+    "id": "172"
   },
   {
     "name": "Jezersko",
@@ -127,7 +139,8 @@
     "center": {
       "lat": 46.38487823387098,
       "lng": 14.470425679032259
-    }
+    },
+    "id": "161"
   },
   {
     "name": "Mežica",
@@ -137,7 +150,8 @@
     "center": {
       "lat": 46.52417421406249,
       "lng": 14.856112354687502
-    }
+    },
+    "id": "63"
   },
   {
     "name": "Solčava",
@@ -147,7 +161,8 @@
     "center": {
       "lat": 46.40741168163265,
       "lng": 14.649767434693885
-    }
+    },
+    "id": "92"
   },
   {
     "name": "Črna na Koroškem",
@@ -157,7 +172,8 @@
     "center": {
       "lat": 46.46695369727274,
       "lng": 14.830508479999995
-    }
+    },
+    "id": "61"
   },
   {
     "name": "Bled",
@@ -167,7 +183,8 @@
     "center": {
       "lat": 46.34655052065217,
       "lng": 14.0831006173913
-    }
+    },
+    "id": "156"
   },
   {
     "name": "Gorje",
@@ -177,7 +194,8 @@
     "center": {
       "lat": 46.38829508243245,
       "lng": 14.00454803108108
-    }
+    },
+    "id": "912"
   },
   {
     "name": "Radovljica",
@@ -187,7 +205,8 @@
     "center": {
       "lat": 46.33889286159421,
       "lng": 14.201436821014493
-    }
+    },
+    "id": "166"
   },
   {
     "name": "Cerklje na Gorenjskem",
@@ -197,7 +216,8 @@
     "center": {
       "lat": 46.25067646969695,
       "lng": 14.502732155555556
-    }
+    },
+    "id": "158"
   },
   {
     "name": "Kamnik",
@@ -207,7 +227,8 @@
     "center": {
       "lat": 46.24102305898878,
       "lng": 14.690525133146068
-    }
+    },
+    "id": "140"
   },
   {
     "name": "Preddvor",
@@ -217,7 +238,8 @@
     "center": {
       "lat": 46.314050712903246,
       "lng": 14.450903897849468
-    }
+    },
+    "id": "165"
   },
   {
     "name": "Kranj",
@@ -227,7 +249,8 @@
     "center": {
       "lat": 46.25320737521364,
       "lng": 14.321673158547007
-    }
+    },
+    "id": "162"
   },
   {
     "name": "Naklo",
@@ -237,7 +260,8 @@
     "center": {
       "lat": 46.29878983492063,
       "lng": 14.302551795238095
-    }
+    },
+    "id": "164"
   },
   {
     "name": "Bohinj",
@@ -247,7 +271,8 @@
     "center": {
       "lat": 46.29190369194633,
       "lng": 13.945048553691276
-    }
+    },
+    "id": "157"
   },
   {
     "name": "Bovec",
@@ -257,7 +282,8 @@
     "center": {
       "lat": 46.36369239530201,
       "lng": 13.630079420805362
-    }
+    },
+    "id": "180"
   },
   {
     "name": "Kobarid",
@@ -267,7 +293,8 @@
     "center": {
       "lat": 46.24295985467624,
       "lng": 13.547935230935254
-    }
+    },
+    "id": "185"
   },
   {
     "name": "Tolmin",
@@ -277,7 +304,8 @@
     "center": {
       "lat": 46.1474537874477,
       "lng": 13.82168532552301
-    }
+    },
+    "id": "189"
   },
   {
     "name": "Brda",
@@ -287,17 +315,19 @@
     "center": {
       "lat": 46.01696141304348,
       "lng": 13.551489847826089
-    }
+    },
+    "id": "181"
   },
   {
-    "name": "Kanal",
+    "name": "Kanal ob Soči",
     "encodedPaths": [
       "sjvxGkuirAvUwM|U~EjwAlbAhQp]mB|Zrb@dd@`AhLl\\xOv`@xfAjL~BjA|YlT~d@lImCfEtLzJcAbG~UnMVrYpu@o@~Z`JtAhYbe@`e@`WuCfSv`@|~AmCvOtOfFwFfc@jFxHx\\~AdCxVxUb[hTpCyDlTbF~C`JiE|b@mjAYgf@nJgHnKqjAfu@cf@xSvYzn@uPrLnBzUkpAn^sP`DxNvLkX}@oZtQzCd@iMjMrCWuX}RoJvFsTv^sPdm@km@gM_YdK{f@nf@}fA`YqOdJwZaS}eB{{AfsBcq@lnA{I_AjJif@w@{t@ufAa]ysAw}@kw@wbAeUg_Ayg@qOwX_e@eYcPxUk\\uFaAxBs\\{LbEtBo^`A}EtG`MbEsHgE{U}VeMflAa`A~^mj@ne@gyAdOyBky@igBqf@dDdBqVo|@go@{Ow_@gh@uHyaAvM_TqDyJnbAgRuM_BfOm[S`Jne@iMnCwM|g@vJv[qi@|bA_AiR}Uhw@fCzo@{h@z^`B|~@gOlEkOez@mFrhAtHtRsJcEmXhV_Jva@sg@}Gyn@zLsh@|h@kKaCyIzLmNkGyc@tb@fDb{@fr@f{@bUnD"
     ],
     "center": {
       "lat": 46.08288679291339,
       "lng": 13.647513547244097
-    }
+    },
+    "id": "184"
   },
   {
     "name": "Nova Gorica",
@@ -307,17 +337,19 @@
     "center": {
       "lat": 45.9531260745,
       "lng": 13.744392462499997
-    }
+    },
+    "id": "187"
   },
   {
-    "name": "Šempeter-Vrtojba",
+    "name": "Šempeter - Vrtojba",
     "encodedPaths": [
       "{uhwGy}orAoClDgGyHy@jO~Wfm@wRx^oU|EtRfiA{c@t|@cEwFoMtM_Thp@vFxL|QuDvaAteAxMYbKfMeDdKv`@x[hp@lMEbIzWnOfEm_AjHbRhGc@ZaR~LdBlEuVVu{@aDca@cKoHMob@tEsNxFzA|As[uL}CkFiYeLbRZaKqGyAiNrd@kD{oAqNeASjYiIgFgC}\\kImBpBuQyLqKrWmZtHi_@maBsQ"
     ],
     "center": {
       "lat": 45.91271512745099,
       "lng": 13.649316886274514
-    }
+    },
+    "id": "188"
   },
   {
     "name": "Ajdovščina",
@@ -327,7 +359,8 @@
     "center": {
       "lat": 45.88697568695653,
       "lng": 13.916858254658388
-    }
+    },
+    "id": "179"
   },
   {
     "name": "Komen",
@@ -337,27 +370,30 @@
     "center": {
       "lat": 45.81386737685183,
       "lng": 13.785788268518523
-    }
+    },
+    "id": "194"
   },
   {
-    "name": "Miren-Kostanjevica",
+    "name": "Miren - Kostanjevica",
     "encodedPaths": [
       "}u|vGc{urAgIzzBwOhi@|g@lBaB``Ak~@tsGkYsOie@bDiMgNpEpj@yE|]eLxYoKiC_Isv@xJclAsO{IdKiV}g@i\\wFz[yF{AuErNLnb@bKnH`Dba@Wt{@mEtV_MeB[`RiGb@kHcRgEl_Az\\rPxW`mAdUxAJfOtEcBjp@ji@xITtd@gh@dTpd@bWrRvcApYhQh\\vNwH|a@hIxK{HH|Lrp@iwAjhAoV|Wi]_@w{GlWkwAq@}~C}sBek@yGiOlEe`Au\\u^aS_s@{ZvByx@iXmh@dU"
     ],
     "center": {
       "lat": 45.87136929499999,
       "lng": 13.633832535000002
-    }
+    },
+    "id": "186"
   },
   {
-    "name": "Renče-Vogrsko",
+    "name": "Renče - Vogrsko",
     "encodedPaths": [
       "sv|vGmsurAgHyAeLz\\_C}f@wEnJ`@wIgJk@oc@vRar@`kByQfDkA`UwG\\_P}IhDqToFoUkPaEgBvP}LqJyAyh@wPy\\{OaBfAem@gH|Ymk@_LwO|JenA_TwEvXzC`pA`JjG`H_EdBzOaOhbAxIpOxEkCxOpKhJ}ErI`KtLmEdf@vJuHh_@sWlZxLpKqBtQjIlBfC|\\hIfFRkYpNdAjDzoAhNsd@pGxA[`KdLcRh@bPhTnWzB}Ij\\h[zHYcJlXrOzI{I`tBpT~R~Rwx@qEqj@hMfNhe@cDjYrOpMetAv`@gjBbQitC}g@mBvOii@pHesB"
     ],
     "center": {
       "lat": 45.896983330555585,
       "lng": 13.681451965277779
-    }
+    },
+    "id": "913"
   },
   {
     "name": "Sežana",
@@ -367,7 +403,8 @@
     "center": {
       "lat": 45.75086796635514,
       "lng": 13.868715152336454
-    }
+    },
+    "id": "197"
   },
   {
     "name": "Idrija",
@@ -377,7 +414,8 @@
     "center": {
       "lat": 46.00644375495051,
       "lng": 14.005409406435646
-    }
+    },
+    "id": "183"
   },
   {
     "name": "Vipava",
@@ -387,7 +425,8 @@
     "center": {
       "lat": 45.82458902386364,
       "lng": 13.968287064772722
-    }
+    },
+    "id": "190"
   },
   {
     "name": "Cerkno",
@@ -397,10 +436,11 @@
     "center": {
       "lat": 46.11557107702704,
       "lng": 13.96305825945946
-    }
+    },
+    "id": "182"
   },
   {
-    "name": "Gorenja vas-Poljane",
+    "name": "Gorenja vas - Poljane",
     "encodedPaths": [
       "ulexGiistAxR{p@jSoS`@c^~FTxMmq@sl@mPcMjDzAl\\oZva@vM~j@eGdUvL|_@",
       "qwqxGqhxtAxOaNhLrb@n{@pt@zq@~E[`Obb@r`A~^fLMjLhEcDh\\lb@bWyE`BlSbp@uAxMsUlJeGtO~CrNmVpJ_A~AeLuW`G}[qMkJsXzFwXoPeTkCse@jO}UrBuzAnZsc@aDkqAjIwInLvItEaHyJ{WhRgMqOyYiAe]vO}Wd@uSa[ibAdLm@oAkf@`Tq[qFoXfQwLbVew@`FpHzLePdVkBDwf@lGhFhTsCt^ucAfKpIlk@uw@j@wTzHjCgDac@|Lmh@cd@}dAuf@gN}VxBiVyp@ia@mKy^hVu`@kJaYlI{fAkl@kRct@i^mM}YvQkHj@}AaIiWjYyX_I`Gzq@aVd]yA~g@kP|BiDdWk`@ItF_Kq_@kYcIg]wPbCwIxOqN_K{JvE}A`w@eLxKoAsXy\\uBcG}O}D|AyAs^mLeKaMj[cHhAoKmSk@dPsFeW|Myb@wP@kYgS{[ai@qRyDwBwRoO~UUpYsEw@pDdPqKh@wTza@eJaE}Bdz@xE`_@bUza@wJhLlDhK}Id]dEdk@xStUqV~MzRxEIlG{JLfKpS{AdQaOpM|QpWnC`Z}NpV~Hz]wNdEPdSdZ|o@_CxPnKfVqCjq@vNdk@d_@ad@r@vG{Lzn@oHrGcOwF`Rh~@{Kfn@rJ|[pNuj@`}@db@jNry@{NgAy@|Knk@zXzMv[|XlLrRpd@t[zB"
@@ -408,7 +448,8 @@
     "center": {
       "lat": 46.11696238639054,
       "lng": 14.134668282248521
-    }
+    },
+    "id": "159"
   },
   {
     "name": "Železniki",
@@ -418,7 +459,8 @@
     "center": {
       "lat": 46.21484076827587,
       "lng": 14.126139601379311
-    }
+    },
+    "id": "170"
   },
   {
     "name": "Divača",
@@ -428,7 +470,8 @@
     "center": {
       "lat": 45.6953370221374,
       "lng": 14.044560451145037
-    }
+    },
+    "id": "191"
   },
   {
     "name": "Logatec",
@@ -438,7 +481,8 @@
     "center": {
       "lat": 45.94797644621213,
       "lng": 14.187649886363637
-    }
+    },
+    "id": "144"
   },
   {
     "name": "Pivka",
@@ -448,7 +492,8 @@
     "center": {
       "lat": 45.68011169270072,
       "lng": 14.219194434306573
-    }
+    },
+    "id": "177"
   },
   {
     "name": "Postojna",
@@ -458,7 +503,8 @@
     "center": {
       "lat": 45.78672193309351,
       "lng": 14.180402764748205
-    }
+    },
+    "id": "178"
   },
   {
     "name": "Vrhnika",
@@ -468,7 +514,8 @@
     "center": {
       "lat": 45.96235475714286,
       "lng": 14.284070740476189
-    }
+    },
+    "id": "155"
   },
   {
     "name": "Brezovica",
@@ -478,17 +525,19 @@
     "center": {
       "lat": 45.95540853225806,
       "lng": 14.419144993548384
-    }
+    },
+    "id": "8563"
   },
   {
-    "name": "Dobrova-Polhov Gradec",
+    "name": "Dobrova - Polhov Gradec",
     "encodedPaths": [
       "cb|wG}iruAyH{aA~Hqv@xQ}e@eDsu@hJo_@kNq`@~GsZ{BuSaOoJoSjGyKbd@_]iZkC}d@wUgXeP`FgJiRpGov@iMsSaTioAdXs{AyNwZtVqNdIqr@{@kcAuSo_@fL_G`Do\\tIaAbKm`@z^yI~@kJzm@YfSkQRfR~IbIjl@aCjFjImW}rAg@sv@}SyG{BlKgZnG_j@mpAbGyc@iIsmA_c@geCbG{[xT{UoHw`@vYgGyCwSfLaIoBsRsa@qy@_[fKv@fXiOnEy@nJuGoC]pHqKoOiM`H_HaO|FcXcIuHyHzPmPoHiZhXeHeCqGpZgR}B`Pl[mRdPuC}[eHdDw@n\\_JsLpBqHgGh@eNrh@ow@sJ_HfQbMfPiPz[hQbbBme@fn@qE|f@mPvLaIgBqIpRvB|w@f]dkAnVyb@dOy}@xMjHlDb`BkLjVoKw@gItb@oS{NhNfhBqi@zF_^l^{H~z@o\\rd@eCtc@vIrc@mKbs@pBd^g[z_ArDzNcJvaAhHxq@by@li@E`dCpMjPxRvBjRbt@t_@fZpk@bRtSmJt`@jJx^iVha@lKhVxp@|VyBtf@fN~\\r}@~Zs\\jHrN`_@tOhQ_B"
     ],
     "center": {
       "lat": 46.05490753484846,
       "lng": 14.33241505757576
-    }
+    },
+    "id": "133"
   },
   {
     "name": "Horjul",
@@ -498,17 +547,19 @@
     "center": {
       "lat": 46.02118252678572,
       "lng": 14.285367878571433
-    }
+    },
+    "id": "137"
   },
   {
-    "name": "Log-Dragomer",
+    "name": "Log - Dragomer",
     "encodedPaths": [
       "mnxwGclpvAtReQmCsKtN_HmAiIzUw`@gUecAha@iNmLkDaIpJ}K_ZkWuPe@mW_Fv@vDaLuMcYpDkgC}HuAui@jq@y[cEs[xI_D`b@sUva@`BvJ_My@pHz`AcGxc@~i@lpAfZoGzBmK|SxGf@rv@lW|rAjb@qf@"
     ],
     "center": {
       "lat": 46.01183942121212,
       "lng": 14.372477060606062
-    }
+    },
+    "id": "145"
   },
   {
     "name": "Medvode",
@@ -518,7 +569,8 @@
     "center": {
       "lat": 46.13124570344827,
       "lng": 14.408392061206897
-    }
+    },
+    "id": "147"
   },
   {
     "name": "Škofja Loka",
@@ -528,7 +580,8 @@
     "center": {
       "lat": 46.17379598592966,
       "lng": 14.265885027135667
-    }
+    },
+    "id": "168"
   },
   {
     "name": "Komenda",
@@ -538,7 +591,8 @@
     "center": {
       "lat": 46.207450109090914,
       "lng": 14.539674700000004
-    }
+    },
+    "id": "141"
   },
   {
     "name": "Vodice",
@@ -548,7 +602,8 @@
     "center": {
       "lat": 46.17264437213115,
       "lng": 14.488235142622957
-    }
+    },
+    "id": "11935"
   },
   {
     "name": "Šenčur",
@@ -558,7 +613,8 @@
     "center": {
       "lat": 46.24358904900001,
       "lng": 14.426260143
-    }
+    },
+    "id": "167"
   },
   {
     "name": "Domžale",
@@ -568,7 +624,8 @@
     "center": {
       "lat": 46.14909113759398,
       "lng": 14.634146081203006
-    }
+    },
+    "id": "135"
   },
   {
     "name": "Mengeš",
@@ -578,7 +635,8 @@
     "center": {
       "lat": 46.15765083636364,
       "lng": 14.558789268181819
-    }
+    },
+    "id": "148"
   },
   {
     "name": "Trzin",
@@ -588,7 +646,8 @@
     "center": {
       "lat": 46.128117833333334,
       "lng": 14.555354533333329
-    }
+    },
+    "id": "152"
   },
   {
     "name": "Dol pri Ljubljani",
@@ -598,7 +657,8 @@
     "center": {
       "lat": 46.09521760952382,
       "lng": 14.67511521111111
-    }
+    },
+    "id": "134"
   },
   {
     "name": "Lukovica",
@@ -608,7 +668,8 @@
     "center": {
       "lat": 46.17771231678834,
       "lng": 14.749814843065694
-    }
+    },
+    "id": "146"
   },
   {
     "name": "Moravče",
@@ -618,7 +679,8 @@
     "center": {
       "lat": 46.12948200803571,
       "lng": 14.752271445535722
-    }
+    },
+    "id": "149"
   },
   {
     "name": "Gornji Grad",
@@ -628,7 +690,8 @@
     "center": {
       "lat": 46.29769466987952,
       "lng": 14.79534228072289
-    }
+    },
+    "id": "78"
   },
   {
     "name": "Ljubno",
@@ -638,7 +701,8 @@
     "center": {
       "lat": 46.36064436794873,
       "lng": 14.835506416666671
-    }
+    },
+    "id": "81"
   },
   {
     "name": "Luče",
@@ -648,7 +712,8 @@
     "center": {
       "lat": 46.353193759493664,
       "lng": 14.742280779746839
-    }
+    },
+    "id": "82"
   },
   {
     "name": "Rečica ob Savinji",
@@ -658,7 +723,8 @@
     "center": {
       "lat": 46.32293871509434,
       "lng": 14.899817056603773
-    }
+    },
+    "id": "919"
   },
   {
     "name": "Mozirje",
@@ -668,7 +734,8 @@
     "center": {
       "lat": 46.354146992187495,
       "lng": 14.966200568749999
-    }
+    },
+    "id": "83"
   },
   {
     "name": "Nazarje",
@@ -678,7 +745,8 @@
     "center": {
       "lat": 46.287178534999995,
       "lng": 14.915618977499992
-    }
+    },
+    "id": "84"
   },
   {
     "name": "Vransko",
@@ -688,7 +756,8 @@
     "center": {
       "lat": 46.23917033472221,
       "lng": 14.939534008333332
-    }
+    },
+    "id": "102"
   },
   {
     "name": "Šoštanj",
@@ -698,7 +767,8 @@
     "center": {
       "lat": 46.40128788111112,
       "lng": 14.999756013333334
-    }
+    },
+    "id": "96"
   },
   {
     "name": "Braslovče",
@@ -708,7 +778,8 @@
     "center": {
       "lat": 46.2736811142857,
       "lng": 15.027740690000002
-    }
+    },
+    "id": "74"
   },
   {
     "name": "Prebold",
@@ -718,7 +789,8 @@
     "center": {
       "lat": 46.22204194489796,
       "lng": 15.089989106122447
-    }
+    },
+    "id": "87"
   },
   {
     "name": "Tabor",
@@ -728,7 +800,8 @@
     "center": {
       "lat": 46.22530790172414,
       "lng": 15.013280429310345
-    }
+    },
+    "id": "98"
   },
   {
     "name": "Ljubljana",
@@ -738,7 +811,8 @@
     "center": {
       "lat": 46.05183526117649,
       "lng": 14.565837249803923
-    }
+    },
+    "id": "143"
   },
   {
     "name": "Polzela",
@@ -748,7 +822,8 @@
     "center": {
       "lat": 46.30858629107142,
       "lng": 15.087099675000001
-    }
+    },
+    "id": "86"
   },
   {
     "name": "Slovenj Gradec",
@@ -758,7 +833,8 @@
     "center": {
       "lat": 46.495091962790674,
       "lng": 15.073202963565887
-    }
+    },
+    "id": "71"
   },
   {
     "name": "Velenje",
@@ -768,7 +844,8 @@
     "center": {
       "lat": 46.36738288076923,
       "lng": 15.136191109615384
-    }
+    },
+    "id": "99"
   },
   {
     "name": "Šmartno ob Paki",
@@ -778,7 +855,8 @@
     "center": {
       "lat": 46.34015846428571,
       "lng": 15.02761334285714
-    }
+    },
+    "id": "95"
   },
   {
     "name": "Dravograd",
@@ -788,7 +866,8 @@
     "center": {
       "lat": 46.583076170312495,
       "lng": 15.02399929140625
-    }
+    },
+    "id": "62"
   },
   {
     "name": "Prevalje",
@@ -798,7 +877,8 @@
     "center": {
       "lat": 46.551083445098016,
       "lng": 14.89222754803921
-    }
+    },
+    "id": "67"
   },
   {
     "name": "Ravne na Koroškem",
@@ -808,7 +888,8 @@
     "center": {
       "lat": 46.557096329411756,
       "lng": 14.949243882352945
-    }
+    },
+    "id": "69"
   },
   {
     "name": "Muta",
@@ -818,7 +899,8 @@
     "center": {
       "lat": 46.63595570377359,
       "lng": 15.13701747358491
-    }
+    },
+    "id": "65"
   },
   {
     "name": "Radlje ob Dravi",
@@ -828,7 +910,8 @@
     "center": {
       "lat": 46.5926400723214,
       "lng": 15.226999958928571
-    }
+    },
+    "id": "68"
   },
   {
     "name": "Vuzenica",
@@ -838,7 +921,8 @@
     "center": {
       "lat": 46.563003388607605,
       "lng": 15.159003848101264
-    }
+    },
+    "id": "72"
   },
   {
     "name": "Lovrenc na Pohorju",
@@ -848,7 +932,8 @@
     "center": {
       "lat": 46.528724777551034,
       "lng": 15.382255776530616
-    }
+    },
+    "id": "39"
   },
   {
     "name": "Podvelka",
@@ -858,7 +943,8 @@
     "center": {
       "lat": 46.58318613359374,
       "lng": 15.360221906250004
-    }
+    },
+    "id": "66"
   },
   {
     "name": "Ribnica na Pohorju",
@@ -868,7 +954,8 @@
     "center": {
       "lat": 46.53024249836066,
       "lng": 15.260041729508202
-    }
+    },
+    "id": "70"
   },
   {
     "name": "Ruše",
@@ -878,7 +965,8 @@
     "center": {
       "lat": 46.52031343906249,
       "lng": 15.477353520312501
-    }
+    },
+    "id": "50"
   },
   {
     "name": "Selnica ob Dravi",
@@ -888,7 +976,8 @@
     "center": {
       "lat": 46.60440684395606,
       "lng": 15.471720613186802
-    }
+    },
+    "id": "51"
   },
   {
     "name": "Celje",
@@ -898,7 +987,8 @@
     "center": {
       "lat": 46.24997391260504,
       "lng": 15.268690321008403
-    }
+    },
+    "id": "75"
   },
   {
     "name": "Dobrna",
@@ -908,7 +998,8 @@
     "center": {
       "lat": 46.35117777058824,
       "lng": 15.2226609
-    }
+    },
+    "id": "77"
   },
   {
     "name": "Mislinja",
@@ -918,7 +1009,8 @@
     "center": {
       "lat": 46.44096659555555,
       "lng": 15.208446416666664
-    }
+    },
+    "id": "64"
   },
   {
     "name": "Vitanje",
@@ -928,7 +1020,8 @@
     "center": {
       "lat": 46.407610290909105,
       "lng": 15.302693814285716
-    }
+    },
+    "id": "100"
   },
   {
     "name": "Vojnik",
@@ -938,7 +1031,8 @@
     "center": {
       "lat": 46.30752061318682,
       "lng": 15.316387834065935
-    }
+    },
+    "id": "101"
   },
   {
     "name": "Žalec",
@@ -948,7 +1042,8 @@
     "center": {
       "lat": 46.25906204351148,
       "lng": 15.165667421374042
-    }
+    },
+    "id": "104"
   },
   {
     "name": "Oplotnica",
@@ -958,7 +1053,8 @@
     "center": {
       "lat": 46.38609838983051,
       "lng": 15.444139444067801
-    }
+    },
+    "id": "44"
   },
   {
     "name": "Slovenska Bistrica",
@@ -968,7 +1064,8 @@
     "center": {
       "lat": 46.405862663953485,
       "lng": 15.534823464534883
-    }
+    },
+    "id": "52"
   },
   {
     "name": "Slovenske Konjice",
@@ -978,7 +1075,8 @@
     "center": {
       "lat": 46.32154934711539,
       "lng": 15.464573919230768
-    }
+    },
+    "id": "91"
   },
   {
     "name": "Zreče",
@@ -988,7 +1086,8 @@
     "center": {
       "lat": 46.40522311121496,
       "lng": 15.363586568224296
-    }
+    },
+    "id": "103"
   },
   {
     "name": "Makole",
@@ -998,7 +1097,8 @@
     "center": {
       "lat": 46.31291864482759,
       "lng": 15.669948213793104
-    }
+    },
+    "id": "907"
   },
   {
     "name": "Poljčane",
@@ -1008,7 +1108,8 @@
     "center": {
       "lat": 46.30495438493152,
       "lng": 15.590093790410966
-    }
+    },
+    "id": "909"
   },
   {
     "name": "Kidričevo",
@@ -1018,7 +1119,8 @@
     "center": {
       "lat": 46.39382401692306,
       "lng": 15.752501772307697
-    }
+    },
+    "id": "36"
   },
   {
     "name": "Majšperk",
@@ -1028,17 +1130,19 @@
     "center": {
       "lat": 46.32090607816092,
       "lng": 15.735459114942532
-    }
+    },
+    "id": "40"
   },
   {
-    "name": "Hoče-Slivnica",
+    "name": "Hoče - Slivnica",
     "encodedPaths": [
       "inxzGcqy}AfKwK~OjQfSqU|b@aJ_Qyr@rJw^f@ku@fnAakDuO|Ei[s]iHodA`Gig@pYiCjK`LfK}Yh@a`AvK_s@dc@q]rX{q@iQys@fDur@}B_Q_Fl@nQ{c@aIsd@mK~HgRe|@nR_JkGaRnHk`@iKoi@jYoSdEsXkzBr}Aa^tw@oj@td@gWyd@nEil@kEyScl@bNq_AvpAiHad@uSpYxc@f~BkOjCcEmOuDhBv@neA~@bGz]aAdL`eA{EFsE|f@bAt|@yGkCi@h\\oKpQj@jj@sEjBsQsSwPpAaE`Kl]|_BhKdrBlRnmAfa@`dAzDt|@tq@|i@"
     ],
     "center": {
       "lat": 46.49054328382354,
       "lng": 15.63392138088235
-    }
+    },
+    "id": "34"
   },
   {
     "name": "Miklavž na Dravskem polju",
@@ -1048,17 +1152,19 @@
     "center": {
       "lat": 46.496294352000014,
       "lng": 15.708600652000003
-    }
+    },
+    "id": "43"
   },
   {
-    "name": "Rače-Fram",
+    "name": "Rače - Fram",
     "encodedPaths": [
       "}dgzGcsu~A}rA{_F_j@}cAgb@`G`Kb^gq@rb@oU`DcLb]oC_o@wKsOuaBphBhKni@oHj`@jG`RoR~IfRd|@lK_I`Ird@oQzc@~Em@|B~PgDtr@hQxs@sXzq@ec@p]wK~r@i@``AgK|YkKaLqYhCaGhg@hHndAh[r]tO}EgnA`kDg@ju@sJv^dO|q@~VcgAjXnPeCxMlJxWlQiApIsY~IzFbM_GfTctBpTsn@fXeLrb@}q@|Vsy@rQcJmK}d@hj@ojC{BeZlJmb@ld@`j@|Aw}@pUe}@qFiGvHmH]yq@pOkDpYkd@rOpE|LaT\\cXnb@qt@"
     ],
     "center": {
       "lat": 46.45403061343281,
       "lng": 15.633765564179102
-    }
+    },
+    "id": "49"
   },
   {
     "name": "Starše",
@@ -1068,7 +1174,8 @@
     "center": {
       "lat": 46.461785401960796,
       "lng": 15.755507911764704
-    }
+    },
+    "id": "53"
   },
   {
     "name": "Kungota",
@@ -1078,7 +1185,8 @@
     "center": {
       "lat": 46.64707666962024,
       "lng": 15.594708407594931
-    }
+    },
+    "id": "37"
   },
   {
     "name": "Maribor",
@@ -1088,7 +1196,8 @@
     "center": {
       "lat": 46.56127832534248,
       "lng": 15.64190174931506
-    }
+    },
+    "id": "41"
   },
   {
     "name": "Pesnica",
@@ -1098,7 +1207,8 @@
     "center": {
       "lat": 46.62060022499998,
       "lng": 15.706420810227268
-    }
+    },
+    "id": "46"
   },
   {
     "name": "Šentilj",
@@ -1108,7 +1218,8 @@
     "center": {
       "lat": 46.66707141136363,
       "lng": 15.72383332159091
-    }
+    },
+    "id": "56"
   },
   {
     "name": "Apače",
@@ -1118,7 +1229,8 @@
     "center": {
       "lat": 46.68319013265306,
       "lng": 15.869080073469389
-    }
+    },
+    "id": "918"
   },
   {
     "name": "Gornja Radgona",
@@ -1128,7 +1240,8 @@
     "center": {
       "lat": 46.63482049529413,
       "lng": 15.952470310588238
-    }
+    },
+    "id": "5"
   },
   {
     "name": "Radenci",
@@ -1138,7 +1251,8 @@
     "center": {
       "lat": 46.60921087846154,
       "lng": 16.039766092307694
-    }
+    },
+    "id": "18"
   },
   {
     "name": "Sveta Ana",
@@ -1148,7 +1262,8 @@
     "center": {
       "lat": 46.65172507435897,
       "lng": 15.840171125641023
-    }
+    },
+    "id": "11585"
   },
   {
     "name": "Benedikt",
@@ -1158,7 +1273,8 @@
     "center": {
       "lat": 46.618036583076915,
       "lng": 15.893029203076926
-    }
+    },
+    "id": "27"
   },
   {
     "name": "Sveta Trojica v Slovenskih goricah",
@@ -1168,7 +1284,8 @@
     "center": {
       "lat": 46.565677806593406,
       "lng": 15.889811135164834
-    }
+    },
+    "id": "910"
   },
   {
     "name": "Sveti Andraž v Slovenskih goricah",
@@ -1178,7 +1295,8 @@
     "center": {
       "lat": 46.52408159215687,
       "lng": 15.95038453333334
-    }
+    },
+    "id": "55"
   },
   {
     "name": "Sveti Jurij v Slovenskih goricah",
@@ -1188,7 +1306,8 @@
     "center": {
       "lat": 46.61746030000001,
       "lng": 15.791071630232556
-    }
+    },
+    "id": "903"
   },
   {
     "name": "Destrnik",
@@ -1198,7 +1317,8 @@
     "center": {
       "lat": 46.48599826133331,
       "lng": 15.876028161333327
-    }
+    },
+    "id": "29"
   },
   {
     "name": "Duplek",
@@ -1208,7 +1328,8 @@
     "center": {
       "lat": 46.51284580625001,
       "lng": 15.773181390625002
-    }
+    },
+    "id": "31"
   },
   {
     "name": "Ptuj",
@@ -1218,7 +1339,8 @@
     "center": {
       "lat": 46.4490102084112,
       "lng": 15.866090883177566
-    }
+    },
+    "id": "48"
   },
   {
     "name": "Trnovska vas",
@@ -1228,7 +1350,8 @@
     "center": {
       "lat": 46.52491190735295,
       "lng": 15.887053397058825
-    }
+    },
+    "id": "57"
   },
   {
     "name": "Hajdina",
@@ -1238,7 +1361,8 @@
     "center": {
       "lat": 46.41421407199999,
       "lng": 15.826094740000004
-    }
+    },
+    "id": "33"
   },
   {
     "name": "Dornava",
@@ -1248,7 +1372,8 @@
     "center": {
       "lat": 46.4492428275862,
       "lng": 15.99150889827587
-    }
+    },
+    "id": "30"
   },
   {
     "name": "Markovci",
@@ -1258,7 +1383,8 @@
     "center": {
       "lat": 46.39496734848485,
       "lng": 15.945780606060604
-    }
+    },
+    "id": "42"
   },
   {
     "name": "Juršinci",
@@ -1268,7 +1394,8 @@
     "center": {
       "lat": 46.48485736734693,
       "lng": 15.970672742857149
-    }
+    },
+    "id": "35"
   },
   {
     "name": "Sveti Tomaž",
@@ -1278,7 +1405,8 @@
     "center": {
       "lat": 46.4759988578125,
       "lng": 16.073073390625005
-    }
+    },
+    "id": "911"
   },
   {
     "name": "Cerkvenjak",
@@ -1288,7 +1416,8 @@
     "center": {
       "lat": 46.55483150566039,
       "lng": 15.94433389056604
-    }
+    },
+    "id": "28"
   },
   {
     "name": "Sveti Jurij ob Ščavnici",
@@ -1298,7 +1427,8 @@
     "center": {
       "lat": 46.56793294457834,
       "lng": 16.02929082048193
-    }
+    },
+    "id": "21"
   },
   {
     "name": "Križevci",
@@ -1308,7 +1438,8 @@
     "center": {
       "lat": 46.564640062500004,
       "lng": 16.127067783333338
-    }
+    },
+    "id": "9900"
   },
   {
     "name": "Veržej",
@@ -1318,7 +1449,8 @@
     "center": {
       "lat": 46.579880246666676,
       "lng": 16.161058722222226
-    }
+    },
+    "id": "26"
   },
   {
     "name": "Beltinci",
@@ -1328,7 +1460,8 @@
     "center": {
       "lat": 46.61603764328358,
       "lng": 16.237019744776116
-    }
+    },
+    "id": "1"
   },
   {
     "name": "Murska Sobota",
@@ -1338,7 +1471,8 @@
     "center": {
       "lat": 46.65480026081083,
       "lng": 16.160036197297302
-    }
+    },
+    "id": "15"
   },
   {
     "name": "Odranci",
@@ -1348,7 +1482,8 @@
     "center": {
       "lat": 46.584432947058815,
       "lng": 16.272724
-    }
+    },
+    "id": "16"
   },
   {
     "name": "Turnišče",
@@ -1358,7 +1493,8 @@
     "center": {
       "lat": 46.60957636216216,
       "lng": 16.31704043513513
-    }
+    },
+    "id": "24"
   },
   {
     "name": "Velika Polana",
@@ -1368,7 +1504,8 @@
     "center": {
       "lat": 46.575654099999994,
       "lng": 16.34816605476191
-    }
+    },
+    "id": "25"
   },
   {
     "name": "Grad",
@@ -1378,7 +1515,8 @@
     "center": {
       "lat": 46.792037402083345,
       "lng": 16.092642631250005
-    }
+    },
+    "id": "7"
   },
   {
     "name": "Puconci",
@@ -1388,7 +1526,8 @@
     "center": {
       "lat": 46.7466743368932,
       "lng": 16.136403114563105
-    }
+    },
+    "id": "17"
   },
   {
     "name": "Cankova",
@@ -1398,7 +1537,8 @@
     "center": {
       "lat": 46.73257960816327,
       "lng": 16.029417759183666
-    }
+    },
+    "id": "2"
   },
   {
     "name": "Rogašovci",
@@ -1408,7 +1548,8 @@
     "center": {
       "lat": 46.80453576896552,
       "lng": 16.034015075862072
-    }
+    },
+    "id": "20"
   },
   {
     "name": "Tišina",
@@ -1418,7 +1559,8 @@
     "center": {
       "lat": 46.66856235263158,
       "lng": 16.082391997368422
-    }
+    },
+    "id": "23"
   },
   {
     "name": "Gornji Petrovci",
@@ -1428,17 +1570,19 @@
     "center": {
       "lat": 46.80137600845071,
       "lng": 16.19783997746479
-    }
+    },
+    "id": "6"
   },
   {
-    "name": "Hodoš / Hodos",
+    "name": "Hodoš",
     "encodedPaths": [
       "qlw|G{ovbBwM~@e@qTun@uDuAse@qaAnRuNj[FbXeVkF`MfbAyP|ImYhg@e[lPeAdcAuPaEStk@qg@n[hn@re@`l@uw@vb@uIvJqNjQdm@vl@{`@bBci@rd@uCfK}Ivz@pNaAhQ~UVNlOn`@~g@fj@w@rFsv@zGeEqBck@kRkX{GycB_K{c@_j@aHsXxGa[iC"
     ],
     "center": {
       "lat": 46.8295570775,
       "lng": 16.31858821
-    }
+    },
+    "id": "8"
   },
   {
     "name": "Kuzma",
@@ -1448,7 +1592,8 @@
     "center": {
       "lat": 46.8411309595238,
       "lng": 16.098532778571432
-    }
+    },
+    "id": "9980"
   },
   {
     "name": "Šalovci",
@@ -1458,17 +1603,19 @@
     "center": {
       "lat": 46.82570304666664,
       "lng": 16.266638276666665
-    }
+    },
+    "id": "22"
   },
   {
-    "name": "Dobrovnik / Dobronak",
+    "name": "Dobrovnik",
     "encodedPaths": [
       "a}n{Gm{xbBua@iOod@aq@eUtW_i@qj@cIeVrQaJeDwHzGyJw_@ku@sDkf@wJdBwCyMmT~e@g{@~ByFoc@}c@sN}@`cAyQfcAmUvEoa@jx@eKxXtCnY}o@bA?he@{Jd[uOrWeQoAjUla@xQxHpFzMqCnW|T^mD`WtTkAfCnRhd@bMnQyBpl@`Y|]y@rM`VfJqDmH|f@rw@w]~fBirC|HlNf_@cn@`LhFtSmZXqt@rLiU"
     ],
     "center": {
       "lat": 46.653601158,
       "lng": 16.34874513
-    }
+    },
+    "id": "4"
   },
   {
     "name": "Kobilje",
@@ -1478,7 +1625,8 @@
     "center": {
       "lat": 46.678040941935485,
       "lng": 16.39233632903226
-    }
+    },
+    "id": "9"
   },
   {
     "name": "Moravske Toplice",
@@ -1488,17 +1636,19 @@
     "center": {
       "lat": 46.70817710672268,
       "lng": 16.27331781764705
-    }
+    },
+    "id": "14"
   },
   {
-    "name": "Lendava / Lendva",
+    "name": "Lendava",
     "encodedPaths": [
       "yqtzGwffdByl@vyAgTpEiZzgB}oAzsDqSkIpEa\\qi@qSoEnm@wXxGeb@_g@}TvCaQ_NoFlUkLdE}G`_AkYa@wBtIg_@kS}f@bCmmAl_ArPzk@Ebc@MhMcKBeF|PkAdl@{s@|EoXiHkw@z|@vIr[mdAxl@sDrc@{PxTc_Ajh@yLl`Cyk@dn@wl@b]ug@hoAtAdp@e[fG~Dlg@v_@ju@{GxJdDvHsQ`JbIdV~h@pj@dUuWnd@`q@ta@hO~gA_lB~r@{m@jwAqnCtZt@sIj|AzT|H{ChKzLfv@|DvGvOcCnBzUhg@r{@}AlYtUzn@Uh^fEzF~GgKdDbEsU~zBdHzBXl[dM[bZlZp@gi@jZ_b@|Ip@uScg@Lu\\xEiN|DjFdHmDrEse@kIgLkE_l@vHyMjVdB?kUgYTkRpk@cSwEdB}NtO}@lEmPuJoOeC}b@ga@dFwKiKtMmoA`KoJ~JpFxFd~@~MdIlWqg@iEsu@pd@cNFyy@}T}Yd@yKhZsEfPjL|O_ZjQcIeDmVkPwE_VjVpd@_yAJwMeLnHuNiDqA{WtJcNjVuAfA{SaJyJlRyW~PvP`SbAtZ}QgQo_A`Iut@w[_LaBmNvImGvU|TfKuA|GmYwUrEgGy\\vN_G`XnGaIgr@zVsMzBum@da@lPt_@{m@|LgbB~R|FaCko@pF_LnOmD|LjOnMkMvE`KjMXfLgt@oNy|@nHoS`XoCwGmRbEkOgGse@~I_EkJg~@`YuR~KuaAy@w_A}MiCgDmRbLkg@_R}EyGhiA"
     ],
     "center": {
       "lat": 46.54083398596492,
       "lng": 16.43762595380117
-    }
+    },
+    "id": "12"
   },
   {
     "name": "Šentjur",
@@ -1508,7 +1658,8 @@
     "center": {
       "lat": 46.18414037509883,
       "lng": 15.428720314229247
-    }
+    },
+    "id": "93"
   },
   {
     "name": "Šmarje pri Jelšah",
@@ -1518,7 +1669,8 @@
     "center": {
       "lat": 46.21511700917431,
       "lng": 15.521407611009172
-    }
+    },
+    "id": "94"
   },
   {
     "name": "Dobje",
@@ -1528,7 +1680,8 @@
     "center": {
       "lat": 46.1334814403846,
       "lng": 15.40144530961538
-    }
+    },
+    "id": "76"
   },
   {
     "name": "Laško",
@@ -1538,7 +1691,8 @@
     "center": {
       "lat": 46.136764586010386,
       "lng": 15.249205499999992
-    }
+    },
+    "id": "80"
   },
   {
     "name": "Štore",
@@ -1548,7 +1702,8 @@
     "center": {
       "lat": 46.19834926153845,
       "lng": 15.319351804615382
-    }
+    },
+    "id": "97"
   },
   {
     "name": "Kozje",
@@ -1558,17 +1713,19 @@
     "center": {
       "lat": 46.06507444843753,
       "lng": 15.555208294531248
-    }
+    },
+    "id": "79"
   },
   {
-    "name": "Mokronog-Trebelno",
+    "name": "Mokronog - Trebelno",
     "encodedPaths": [
       "ekcwG_mc{A|UxAjVi}@pRsJbIsa@t_@{a@pOezAzWol@yOg\\nVi]wG_f@jQq`@qDwd@tReWrGgj@{TobA}TePkPi~@}[e[iJea@mMpm@oJop@iLvLd@uHi_@aQiZkq@wP`WaMkC{Ebh@sRKiRaNgc@~OqSgUqg@}qAaKlc@hAfk@wItSsGk@qIj_@fDxk@cVxQlB~SuYbQaB`e@a^xNsc@xhAqXj]q@j[{r@hIgIwFD~WgUlUp@vKs]lAgYvTeIbVrl@R`_@zQTnRzMcEh]fK{Ah^y^jIhe@ti@lDd`@hD_N?va@|PpCtGeRrPiIrObp@oGfj@~Kv[p`@kGpXlJdVm\\|EcBbFhLAmHbMMpIcn@wHsWzYkMhA|YzGdCd[gRrIzKvAwEsBxeAzR}A`L{UxUha@~S`EzLcMlO]bSp\\mCdR"
     ],
     "center": {
       "lat": 45.92299883541665,
       "lng": 15.152011406249995
-    }
+    },
+    "id": "917"
   },
   {
     "name": "Sevnica",
@@ -1578,7 +1735,8 @@
     "center": {
       "lat": 46.0104670235294,
       "lng": 15.25938516568628
-    }
+    },
+    "id": "111"
   },
   {
     "name": "Šentrupert",
@@ -1588,7 +1746,8 @@
     "center": {
       "lat": 45.98567600235294,
       "lng": 15.098930355294113
-    }
+    },
+    "id": "915"
   },
   {
     "name": "Šmarješke Toplice",
@@ -1598,7 +1757,8 @@
     "center": {
       "lat": 45.884077946268654,
       "lng": 15.24722833731343
-    }
+    },
+    "id": "914"
   },
   {
     "name": "Hrastnik",
@@ -1608,7 +1768,8 @@
     "center": {
       "lat": 46.13803456043956,
       "lng": 15.1172295989011
-    }
+    },
+    "id": "105"
   },
   {
     "name": "Trbovlje",
@@ -1618,7 +1779,8 @@
     "center": {
       "lat": 46.1418540150685,
       "lng": 15.043951396575338
-    }
+    },
+    "id": "106"
   },
   {
     "name": "Zagorje ob Savi",
@@ -1629,7 +1791,8 @@
     "center": {
       "lat": 46.13218791269037,
       "lng": 14.964960194923865
-    }
+    },
+    "id": "107"
   },
   {
     "name": "Litija",
@@ -1639,7 +1802,8 @@
     "center": {
       "lat": 46.060721339555535,
       "lng": 14.913703452444432
-    }
+    },
+    "id": "142"
   },
   {
     "name": "Radeče",
@@ -1649,7 +1813,8 @@
     "center": {
       "lat": 46.063162786764714,
       "lng": 15.146748058823531
-    }
+    },
+    "id": "112"
   },
   {
     "name": "Šmartno pri Litiji",
@@ -1659,7 +1824,8 @@
     "center": {
       "lat": 46.020260393793116,
       "lng": 14.82596266206896
-    }
+    },
+    "id": "151"
   },
   {
     "name": "Mirna Peč",
@@ -1669,7 +1835,8 @@
     "center": {
       "lat": 45.85705870645161,
       "lng": 15.082752661290323
-    }
+    },
+    "id": "120"
   },
   {
     "name": "Mirna",
@@ -1679,7 +1846,8 @@
     "center": {
       "lat": 45.94628317272728,
       "lng": 15.056245599999997
-    }
+    },
+    "id": "930"
   },
   {
     "name": "Trebnje",
@@ -1689,7 +1857,8 @@
     "center": {
       "lat": 45.90520732222221,
       "lng": 14.985951328148145
-    }
+    },
+    "id": "128"
   },
   {
     "name": "Dolenjske Toplice",
@@ -1699,7 +1868,8 @@
     "center": {
       "lat": 45.71933487619049,
       "lng": 15.035426921428572
-    }
+    },
+    "id": "115"
   },
   {
     "name": "Semič",
@@ -1709,7 +1879,8 @@
     "center": {
       "lat": 45.65676141826925,
       "lng": 15.164675649999996
-    }
+    },
+    "id": "124"
   },
   {
     "name": "Straža",
@@ -1719,7 +1890,8 @@
     "center": {
       "lat": 45.781730565853664,
       "lng": 15.098284114634142
-    }
+    },
+    "id": "11512"
   },
   {
     "name": "Žužemberk",
@@ -1729,7 +1901,8 @@
     "center": {
       "lat": 45.80902933059701,
       "lng": 14.91290545970149
-    }
+    },
+    "id": "129"
   },
   {
     "name": "Žiri",
@@ -1739,7 +1912,8 @@
     "center": {
       "lat": 46.04677921616161,
       "lng": 14.107300425252532
-    }
+    },
+    "id": "171"
   },
   {
     "name": "Dobrepolje",
@@ -1749,7 +1923,8 @@
     "center": {
       "lat": 45.83461674660193,
       "lng": 14.735999299999996
-    }
+    },
+    "id": "132"
   },
   {
     "name": "Grosuplje",
@@ -1759,7 +1934,8 @@
     "center": {
       "lat": 45.942190273548384,
       "lng": 14.675272880645164
-    }
+    },
+    "id": "136"
   },
   {
     "name": "Ig",
@@ -1769,7 +1945,8 @@
     "center": {
       "lat": 45.92744560779221,
       "lng": 14.531965053246758
-    }
+    },
+    "id": "138"
   },
   {
     "name": "Škofljica",
@@ -1779,7 +1956,8 @@
     "center": {
       "lat": 45.95977124886364,
       "lng": 14.578717311363631
-    }
+    },
+    "id": "150"
   },
   {
     "name": "Ribnica",
@@ -1789,7 +1967,8 @@
     "center": {
       "lat": 45.745109840707954,
       "lng": 14.684635863716824
-    }
+    },
+    "id": "123"
   },
   {
     "name": "Sodražica",
@@ -1799,7 +1978,8 @@
     "center": {
       "lat": 45.755353456790125,
       "lng": 14.617709175308642
-    }
+    },
+    "id": "125"
   },
   {
     "name": "Velike Lašče",
@@ -1809,7 +1989,8 @@
     "center": {
       "lat": 45.85033573913042,
       "lng": 14.583005593043477
-    }
+    },
+    "id": "153"
   },
   {
     "name": "Bloke",
@@ -1819,7 +2000,8 @@
     "center": {
       "lat": 45.78088173592234,
       "lng": 14.51196006601941
-    }
+    },
+    "id": "173"
   },
   {
     "name": "Borovnica",
@@ -1829,7 +2011,8 @@
     "center": {
       "lat": 45.91486639508196,
       "lng": 14.374760911475413
-    }
+    },
+    "id": "130"
   },
   {
     "name": "Cerknica",
@@ -1839,7 +2022,8 @@
     "center": {
       "lat": 45.8175728609589,
       "lng": 14.40812195410959
-    }
+    },
+    "id": "174"
   },
   {
     "name": "Lenart",
@@ -1849,7 +2033,8 @@
     "center": {
       "lat": 46.55670118793106,
       "lng": 15.815675485344823
-    }
+    },
+    "id": "38"
   },
   {
     "name": "Ivančna Gorica",
@@ -1859,7 +2044,8 @@
     "center": {
       "lat": 45.92377511373628,
       "lng": 14.814712067032964
-    }
+    },
+    "id": "139"
   },
   {
     "name": "Bistrica ob Sotli",
@@ -1869,7 +2055,8 @@
     "center": {
       "lat": 46.06271992197803,
       "lng": 15.65379327032967
-    }
+    },
+    "id": "113"
   },
   {
     "name": "Brežice",
@@ -1879,7 +2066,8 @@
     "center": {
       "lat": 45.94721100545455,
       "lng": 15.637980813454543
-    }
+    },
+    "id": "108"
   },
   {
     "name": "Cirkulane",
@@ -1889,7 +2077,8 @@
     "center": {
       "lat": 46.335901360344835,
       "lng": 15.994561963793103
-    }
+    },
+    "id": "905"
   },
   {
     "name": "Gorišnica",
@@ -1899,7 +2088,8 @@
     "center": {
       "lat": 46.40753469787233,
       "lng": 16.01127800425532
-    }
+    },
+    "id": "32"
   },
   {
     "name": "Kostanjevica na Krki",
@@ -1909,7 +2099,8 @@
     "center": {
       "lat": 45.83702553571428,
       "lng": 15.414490881428573
-    }
+    },
+    "id": "109"
   },
   {
     "name": "Kočevje",
@@ -1919,7 +2110,8 @@
     "center": {
       "lat": 45.629327399999994,
       "lng": 14.928398611557778
-    }
+    },
+    "id": "116"
   },
   {
     "name": "Krško",
@@ -1929,7 +2121,8 @@
     "center": {
       "lat": 45.947145412941175,
       "lng": 15.469114932941181
-    }
+    },
+    "id": "110"
   },
   {
     "name": "Ljutomer",
@@ -1939,7 +2132,8 @@
     "center": {
       "lat": 46.51766776268655,
       "lng": 16.15762476567164
-    }
+    },
+    "id": "13"
   },
   {
     "name": "Metlika",
@@ -1949,7 +2143,8 @@
     "center": {
       "lat": 45.667319307692296,
       "lng": 15.30010875865385
-    }
+    },
+    "id": "119"
   },
   {
     "name": "Novo mesto",
@@ -1959,7 +2154,8 @@
     "center": {
       "lat": 45.780130213664606,
       "lng": 15.182473327950312
-    }
+    },
+    "id": "121"
   },
   {
     "name": "Ormož",
@@ -1969,7 +2165,8 @@
     "center": {
       "lat": 46.44437175254238,
       "lng": 16.160701236723167
-    }
+    },
+    "id": "45"
   },
   {
     "name": "Osilnica",
@@ -1979,7 +2176,8 @@
     "center": {
       "lat": 45.54042575454545,
       "lng": 14.726618565454546
-    }
+    },
+    "id": "122"
   },
   {
     "name": "Podlehnik",
@@ -1989,7 +2187,8 @@
     "center": {
       "lat": 46.318927322950806,
       "lng": 15.86274080819672
-    }
+    },
+    "id": "47"
   },
   {
     "name": "Podčetrtek",
@@ -1999,7 +2198,8 @@
     "center": {
       "lat": 46.13632717301591,
       "lng": 15.593832058730158
-    }
+    },
+    "id": "85"
   },
   {
     "name": "Razkrižje",
@@ -2009,7 +2209,8 @@
     "center": {
       "lat": 46.517901775000006,
       "lng": 16.27049962166667
-    }
+    },
+    "id": "19"
   },
   {
     "name": "Rogatec",
@@ -2019,7 +2220,8 @@
     "center": {
       "lat": 46.239320369090876,
       "lng": 15.73694138
-    }
+    },
+    "id": "90"
   },
   {
     "name": "Rogaška Slatina",
@@ -2029,7 +2231,8 @@
     "center": {
       "lat": 46.23694322342343,
       "lng": 15.634775852252249
-    }
+    },
+    "id": "89"
   },
   {
     "name": "Središče ob Dravi",
@@ -2039,7 +2242,8 @@
     "center": {
       "lat": 46.41065419358974,
       "lng": 16.245589639743596
-    }
+    },
+    "id": "908"
   },
   {
     "name": "Videm",
@@ -2049,7 +2253,8 @@
     "center": {
       "lat": 46.34114885775861,
       "lng": 15.880661255172415
-    }
+    },
+    "id": "58"
   },
   {
     "name": "Zavrč",
@@ -2059,7 +2264,8 @@
     "center": {
       "lat": 46.362988275757566,
       "lng": 16.044960236363636
-    }
+    },
+    "id": "59"
   },
   {
     "name": "Črenšovci",
@@ -2069,7 +2275,8 @@
     "center": {
       "lat": 46.55908553968254,
       "lng": 16.305146433333327
-    }
+    },
+    "id": "3"
   },
   {
     "name": "Črnomelj",
@@ -2079,7 +2286,8 @@
     "center": {
       "lat": 45.534544803311285,
       "lng": 15.1768082589404
-    }
+    },
+    "id": "114"
   },
   {
     "name": "Šentjernej",
@@ -2089,7 +2297,8 @@
     "center": {
       "lat": 45.83221208762887,
       "lng": 15.338069834020622
-    }
+    },
+    "id": "126"
   },
   {
     "name": "Škocjan",
@@ -2099,7 +2308,8 @@
     "center": {
       "lat": 45.91508630000002,
       "lng": 15.291896051578947
-    }
+    },
+    "id": "127"
   },
   {
     "name": "Žetale",
@@ -2109,16 +2319,18 @@
     "center": {
       "lat": 46.286775341509426,
       "lng": 15.79687506226415
-    }
+    },
+    "id": "60"
   },
   {
-    "name": "Ankaran / Ancarano",
+    "name": "Ankaran",
     "encodedPaths": [
       "udauG{v{rA`HuiA{D_R}R{SmN_f@uM~GwXqFw_@tWgC~a@mLnFjDhb@mNHoEto@yIwAmLzP}JwB|EfO{HOeGfn@nTn^{EpYcW|DqDyQ_JtEl@ez@cVYjHfgB_Yth@ckEvgOhTpnAnqL_jUK{_B"
     ],
     "center": {
       "lat": 45.58277642580644,
       "lng": 13.73668476451613
-    }
+    },
+    "id": "646"
   }
 ]

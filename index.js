@@ -2,6 +2,10 @@ const fs = require("fs");
 const turf = require("@turf/turf");
 const { encode } = require("@googlemaps/polyline-codec");
 
+const index = require("./100m2_index.json");
+
+const cities = index.location_city;
+
 // Input GeoJSON file
 const inputFile = "obcine.geojson";
 
@@ -32,7 +36,14 @@ fs.readFile(inputFile, "utf8", (err, data) => {
 
     const output = simplifiedFeatures
       .map((feature) => {
-        const name = feature.properties.name;
+        let name = feature.properties ? feature.properties.name : undefined;
+
+        if (name && name.includes(" /")) name = name.split(" /")[0]; //Dvojezična imena občin
+        if (name && name.includes("-")) name = name.replace(/-/g, " - "); //Handle Rače-Fram etc
+
+        //Manual Exceptions
+        if (name === "Kanal") name = "Kanal ob Soči";
+
         let encodedPaths = [];
         let center = { lat: null, lng: null };
 
@@ -58,7 +69,23 @@ fs.readFile(inputFile, "utf8", (err, data) => {
           });
         }
 
-        return { name, encodedPaths, center };
+        let foundCity;
+        if (name === "Ljubljana") {
+          foundCity = cities.find((city) => city.id === "143");
+        } else {
+          foundCity = cities.find((city) => {
+            if (city.text && feature.properties && name)
+              return city.text.normalize("NFC") === name.normalize("NFC");
+            return false;
+          });
+        }
+
+        return {
+          name,
+          encodedPaths,
+          center,
+          id: foundCity ? foundCity.id : "",
+        };
       })
       .filter((feature) => feature.encodedPaths.length > 0);
 
